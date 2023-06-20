@@ -43,5 +43,5 @@
   </a>
 </div>
 <div>
-  <video src="myvideo.mp4" id="video" autoplay></video>
+  <video src="" id="video" autoplay></video>
 </div>
