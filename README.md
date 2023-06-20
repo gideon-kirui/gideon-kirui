@@ -2,4 +2,4 @@
 
 <h1 align="center">Hey 👋 I'm Gideon</h1>
 
-[](https://tenor.com/bXgGS.gif)
+[My gif](https://tenor.com/bXgGS.gif)
