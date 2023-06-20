@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://tenor.com/bXgGS.gif" />
+  <img height="200" src="https://tenor.com/bXgGS.gif"/>
 </div>
 
 ###
