@@ -42,3 +42,6 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FF4836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
 </div>
+<div>
+  <video src="myvideo.mp4" id="video" autoplay></video>
+</div>
