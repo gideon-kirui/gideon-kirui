@@ -2,4 +2,4 @@
 
 <h1 align="center">Hey 👋 I'm Gideon</h1>
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif)
