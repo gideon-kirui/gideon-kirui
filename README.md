@@ -1,47 +1,147 @@
-<br clear="both">
+<h1 align="center">Hi 👋, I'm Gideon Kirui</h1>
+<h3 align="center">Full-Stack Developer | Python • Django • JavaScript</h3>
 
-<h1 align="center">Hey 👋, I'm Gideon</h1>
+<p align="center">
+Building scalable web apps, automation systems, and mobile tools.
+</p>
 
-<div align="center">
-  <img height="300" width="600" src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif"/>
-</div>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=gideon-kirui&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
-<div align="center" margin-top="100">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=gideon-kirui" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=dracula&hide_border=false&username=gideon-kirui" height="150" alt="languages graph"/>
-</div>
+---
 
-<div align="center">
-<h1 align="center">Some Skills</h1>
+# 🚀 About Me
 
-  | Web Development | Mobile Developemnt | DevOps |
-  | --------------- | ------------------ | ------ |
-  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  /> CSS3 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  /> Kivy | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" width="42" alt="python logo"  /> Bash | 
-  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  /> HTML5 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  /> KivyMD |  |
-  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  /> JavaScript |  |  |
-  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" width="42" alt="python logo" /> Django |  |  |
-  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo"  /> Mysql |  |  |
+* 💻 Full-stack developer focused on **Python & Django**
+* 📱 Building mobile apps with **Kivy / KivyMD**
+* ⚙️ DevOps enthusiast working with **Linux & Bash**
+* 🧠 Passionate about **automation systems & scalable backends**
+* 🌱 Currently learning **cloud deployment & system design**
 
-</div>
+---
 
-> Let's Connect Through:
-<div align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0044B4&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=blue&logoColor=&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
-  </a>
-  <a href="discordapp.com/users/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.youtube.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=whatsapp&logo=whatsapp&label=&color=dark-green&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo"  />
-  </a>
-  <a href="mailto:mail2kirui" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FF4836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
-  </a>
-</div>
-<div>
-  <video src="Screencast 2023-06-20 19:28:38.mp4" id="video" autoplay></video>
-</div>
+# 🧰 Tech Stack
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,django,mysql" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+### Mobile Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" /> Kivy / KivyMD
+</p>
+
+### DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=bash,linux,git,github,vscode" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=gideon-kirui&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gideon-kirui&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=gideon-kirui&theme=tokyonight"/>
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gideon-kirui&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=gideon-kirui&theme=tokyonight&row=1&column=6"/>
+</p>
+
+---
+
+# ⭐ Featured Projects
+
+### 🔹 Project One
+
+A Django web application solving real-world problems.
+
+### 🔹 Project Two
+
+Automation tool built with Python.
+
+### 🔹 Project Three
+
+Mobile app built using Kivy/KivyMD.
+
+---
+
+# 🔥 Current Focus
+
+* Django web platforms
+* REST API development
+* DevOps automation
+* Mobile apps using Kivy
+
+---
+
+# 🐍 Contribution Snake
+
+![snake gif](https://github.com/gideon-kirui/gideon-kirui/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+
+<a href="https://twitter.com/">
+<img src="https://skillicons.dev/icons?i=twitter" height="40"/>
+</a>
+
+<a href="https://discordapp.com/users/">
+<img src="https://skillicons.dev/icons?i=discord" height="40"/>
+</a>
+
+<a href="mailto:mail2kirui">
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
+
+</p>
+
+---
+
+# ⚡ Dev Quote
+
+> “First solve the problem. Then write the code.”
+
+---
+
+<p align="center">
+⚡ Code • Build • Improve • Repeat
+</p>
