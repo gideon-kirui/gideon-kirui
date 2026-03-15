@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gideon Kirui</h1>
-<h3 align="center">Full-Stack Developer | Python • Django • JavaScript</h3>
+<h3 align="center">Full-Stack Developer | Python • Django • JavaScript • Kivy • KivyMD </h3>
 
 <p align="center">
 Building scalable web apps, automation systems, and mobile tools.
