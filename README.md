@@ -73,11 +73,70 @@ Building scalable web apps, automation systems, and mobile tools.
 
 ---
 
-# 🏆 GitHub Achievements
+<br/>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=gideon-kirui&theme=tokyonight&row=1&column=6"/>
-</p>
+<div align="center">
+
+## 🎯 Developer Rating
+
+> ⚡ Auto-updated daily with live GitHub data
+
+<!-- DEVELOPER-RATING:START -->
+
+<div align="center">
+
+### 🚀 Advanced Developer
+## 🎯 7.5/10.0
+*Strong skills with significant project experience*
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+#### 📊 GitHub Statistics
+| Metric | Value |
+|--------|-------|
+| ⭐ Total Stars | **107** |
+| 🍴 Total Forks | **13** |
+| 📦 Public Repos | **62** |
+| 🔀 PRs Merged | **58** |
+| 🐛 Issues Opened | **6** |
+| 🔥 Current Streak | **0 days** |
+| 👥 Followers | **52** |
+| 📅 Total Contributions | **1559** |
+
+</td>
+<td width="50%" valign="top">
+
+#### 🎯 Score Breakdown
+| Category | Progress | Score |
+|----------|----------|-------|
+| ⭐ Stars | ███████████████░░░░░ | 1.51/2.0 |
+| 🔥 Commits | █████████████████░░░ | 2.15/2.5 |
+| 🔀 PRs | ███████████████░░░░░ | 1.15/1.5 |
+| 📦 Repos | ████████████████████ | 1.00/1.0 |
+| 👥 Followers | ████████████░░░░░░░░ | 0.64/1.0 |
+| 🔥 Streak | ░░░░░░░░░░░░░░░░░░░░ | 0.00/1.0 |
+| 📅 Activity | ████████████████████ | 1.00/1.0 |
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**🌐 Top Languages:** PHP, TypeScript, HTML, JavaScript  
+*Last updated: 2026-04-18 01:11 UTC*
+
+</div>
+
+<!-- DEVELOPER-RATING:END -->
+
+</div>
+
+<br/>
 
 ---
 
