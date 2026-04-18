@@ -128,7 +128,7 @@ Building scalable web apps, automation systems, and mobile tools.
 
 <div align="center">
 
-**🌐 Top Languages:** PHP, TypeScript, HTML, JavaScript  
+**🌐 Top Languages:** Python, Next.js, HTML, JavaScript  
 *Last updated: 2026-04-18 23:04 UTC*
 
 </div>
