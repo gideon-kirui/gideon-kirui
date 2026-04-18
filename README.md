@@ -23,29 +23,29 @@ Building scalable web apps, automation systems, and mobile tools.
 
 # 🧰 Tech Stack
 
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,django,mysql" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
-
-### Mobile Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=python" /> Kivy / KivyMD
-</p>
-
-### DevOps & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=bash,linux,git,github,vscode" />
-</p>
+<table>
+  <tr>
+    <th>Backend</th>
+    <th>Frontend</th>
+    <th>Mobile Development</th>
+    <th>DevOps & Tools</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python,django,mysql" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html,css,js" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python" /><br/>
+      Kivy / KivyMD
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=bash,linux,git,github,vscode" />
+    </td>
+  </tr>
+</table>
 
 ---
 
