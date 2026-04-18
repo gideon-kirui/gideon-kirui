@@ -167,25 +167,11 @@ Mobile app built using Kivy/KivyMD.
 
 # 🤝 Connect With Me
 
-<p align="center">
-
-<a href="https://linkedin.com/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
-
-<a href="https://twitter.com/">
-<img src="https://skillicons.dev/icons?i=twitter" height="40"/>
-</a>
-
-<a href="https://discordapp.com/users/">
-<img src="https://skillicons.dev/icons?i=discord" height="40"/>
-</a>
-
-<a href="mailto:mail2kirui">
-<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-</a>
-
-</p>
+<div align="center">
+  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail2kirui@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gideon-kirui)
+</div>
 
 ---
 
