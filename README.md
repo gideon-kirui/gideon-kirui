@@ -38,8 +38,7 @@ Building scalable web apps, automation systems, and mobile tools.
       <img src="https://skillicons.dev/icons?i=html,css,js" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=python" /><br/>
-      Kivy / KivyMD
+      <img src="https://skillicons.dev/icons?i=python,flutter" /><br/>
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=bash,linux,git,github,vscode" />
