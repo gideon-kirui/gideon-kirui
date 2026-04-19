@@ -50,16 +50,16 @@ Building scalable web apps, automation systems, and mobile tools.
 
 # 📊 GitHub Analytics
 
-<p align="center">
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=gideon-kirui&show_icons=true&theme=tokyonight"/>
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gideon-kirui&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gideon-kirui&layout=compact&theme=tokyonight"/>
-
+<p align="left">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gideon-kirui&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=gideon-kirui&theme=tokyonight"/>
+<img  src="https://streak-stats.demolab.com?user=gideon-kirui&theme=tokyonight"/>
 </p>
 
 ---
