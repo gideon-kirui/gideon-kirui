@@ -144,13 +144,22 @@ Building scalable web apps, automation systems, and mobile tools.
 
 # ⭐ Featured Projects
 
-### 🔹 Realestate Management System
+### 🏢 Realestate Management System
 
-> Realworld Real Estate management system, with dashboard, CRM, Payments intergration, client notifications, 2F Authentication, Permision management and Property listing and management, PDF statement downloads, invoicing, Analytics and many more
+> A full-featured, production-ready real estate platform designed to streamline property operations and client management.
 
-### 🔹 Project Two
+Built with a robust architecture, the system includes an interactive dashboard, integrated CRM, secure payment processing, and automated client notifications. It supports advanced features such as two-factor authentication, role-based permission management, and comprehensive property listing and administration.
 
-Automation tool built with Python.
+The platform also provides invoicing, downloadable PDF statements, and real-time analytics to support data-driven decision-making—making it suitable for agencies, property managers, and real estate businesses of all sizes.
+
+### 🧑‍🍳 Resturant Management System
+
+> A modern, full-featured Point of Sale system designed to streamline restaurant operations from order management to reporting.
+
+The system includes an intuitive cashier dashboard, real-time order processing, table and menu management, and integrated billing. It supports secure payment handling, role-based access control for staff, and automated receipt generation.
+
+Additional features include inventory tracking, sales analytics, customer management, and daily financial reports to help restaurant owners make informed business decisions and improve operational efficiency.
+
 
 ---
 
