@@ -152,7 +152,7 @@ Building scalable web apps, automation systems, and mobile tools.
 
 > The platform also provides invoicing, downloadable PDF statements, and real-time analytics to support data-driven decision-making—making it suitable for agencies, property managers, and real estate businesses of all sizes.
 
-### 🧑‍🍳 Resturant Management System
+### 🧑‍🍳 Resturant Point of Sale
 
 > A modern, full-featured Point of Sale system designed to streamline restaurant operations from order management to reporting.
 
@@ -162,8 +162,6 @@ Building scalable web apps, automation systems, and mobile tools.
 
 
 ---
-
-# 🔥 Current Focus
 
 # 🔥 Current Focus
 
