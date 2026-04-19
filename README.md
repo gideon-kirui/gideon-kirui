@@ -50,12 +50,12 @@ Building scalable web apps, automation systems, and mobile tools.
 
 # 📊 GitHub Analytics
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=gideon-kirui&show_icons=true&theme=tokyonight"/>
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=gideon-kirui&show_icons=true&theme=tokyonight"/>
 </p>
 
-<p align="left">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gideon-kirui&layout=compact&theme=tokyonight"/>
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gideon-kirui&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
@@ -67,7 +67,7 @@ Building scalable web apps, automation systems, and mobile tools.
 # 📈 Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gideon-kirui&theme=tokyo-night"/>
+<img height="170" src="https://github-readme-activity-graph.vercel.app/graph?username=gideon-kirui&theme=tokyo-night"/>
 </p>
 
 ---
