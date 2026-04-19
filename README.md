@@ -167,10 +167,14 @@ Building scalable web apps, automation systems, and mobile tools.
 
 # 🔥 Current Focus
 
-![Django](https://img.shields.io/badge/Django-Web_Platforms-092E20?style=for-the-badge&logo=django)
-![API](https://img.shields.io/badge/REST_API-Development-005571?style=for-the-badge)
-![DevOps](https://img.shields.io/badge/DevOps-Automation-2496ED?style=for-the-badge&logo=docker)
-![Kivy](https://img.shields.io/badge/Mobile-Kivy%2FKivyMD-FF6F00?style=for-the-badge)
+![Backend](https://img.shields.io/badge/Backend_Engineering-0A0A0A?style=for-the-badge&logo=server&logoColor=white)
+![APIs](https://img.shields.io/badge/RESTful_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![System Design](https://img.shields.io/badge/System_Design-1F6FEB?style=for-the-badge&logo=databricks&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud_Computing-2496ED?style=for-the-badge&logo=googlecloud&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps_Automation-3C873A?style=for-the-badge&logo=docker&logoColor=white)
+![Security](https://img.shields.io/badge/Authentication_%26_Security-8B0000?style=for-the-badge&logo=auth0&logoColor=white)
+![AI Integration](https://img.shields.io/badge/AI_Integration-6A0DAD?style=for-the-badge&logo=openai&logoColor=white)
+![Mobile Dev](https://img.shields.io/badge/Mobile_Apps-Kivy%2FFlutter-FF6F00?style=for-the-badge&logo=android&logoColor=white)
 
 ---
 
