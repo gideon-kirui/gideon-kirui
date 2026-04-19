@@ -144,17 +144,13 @@ Building scalable web apps, automation systems, and mobile tools.
 
 # ⭐ Featured Projects
 
-### 🔹 Project One
+### 🔹 Realestate Management System
 
-A Django web application solving real-world problems.
+> Realworld Real Estate management system, with dashboard, CRM, Payments intergration, client notifications, 2F Authentication, Permision management and Property listing and management, PDF statement downloads, invoicing, Analytics and many more
 
 ### 🔹 Project Two
 
 Automation tool built with Python.
-
-### 🔹 Project Three
-
-Mobile app built using Kivy/KivyMD.
 
 ---
 
