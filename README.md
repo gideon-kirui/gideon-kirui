@@ -165,11 +165,12 @@ Building scalable web apps, automation systems, and mobile tools.
 
 # 🔥 Current Focus
 
-[!Django]
-* Django web platforms
-* REST API development
-* DevOps automation
-* Mobile apps using Kivy
+# 🔥 Current Focus
+
+![Django](https://img.shields.io/badge/Django-Web_Platforms-092E20?style=for-the-badge&logo=django)
+![API](https://img.shields.io/badge/REST_API-Development-005571?style=for-the-badge)
+![DevOps](https://img.shields.io/badge/DevOps-Automation-2496ED?style=for-the-badge&logo=docker)
+![Kivy](https://img.shields.io/badge/Mobile-Kivy%2FKivyMD-FF6F00?style=for-the-badge)
 
 ---
 
