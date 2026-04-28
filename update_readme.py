@@ -1,6 +1,7 @@
 import requests
 import os
 from datetime import datetime
+from collections import Counter
 
 USERNAME = os.getenv("USERNAME")
 TOKEN = os.getenv("GITHUB_TOKEN")
@@ -16,6 +17,17 @@ total_stars = sum(repo["stargazers_count"] for repo in repos)
 total_forks = sum(repo["forks_count"] for repo in repos)
 public_repos = user["public_repos"]
 followers = user["followers"]
+
+# -------- LANGUAGE STATS -------- #
+
+languages = Counter()
+
+for repo in repos:
+    if repo["language"]:
+        languages[repo["language"]] += 1
+
+top_languages = [lang for lang, _ in languages.most_common(4)]
+top_languages_str = ", ".join(top_languages) if top_languages else "N/A"
 
 # fallback values (GitHub API limitations unless extended)
 prs_merged = 58
@@ -99,7 +111,7 @@ updated = f"""
 
 <div align="center">
 
-**🌐 Top Languages:** PHP, TypeScript, HTML, JavaScript  
+**🌐 Top Languages:** {top_languages_str}  
 *Last updated: {datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")}*
 
 </div>
