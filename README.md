@@ -46,31 +46,7 @@ Building scalable web apps, automation systems, and mobile tools.
   </tr>
 </table>
 
----
 
-# 📊 GitHub Analytics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gideon-kirui&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gideon-kirui&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img  src="https://streak-stats.demolab.com?user=gideon-kirui&theme=tokyonight"/>
-</p>
-
----
-
-# 📈 Activity Graph
-
-<p align="center">
-<img height="170" src="https://github-readme-activity-graph.vercel.app/graph?username=gideon-kirui&theme=tokyo-night"/>
-</p>
-
----
 
 <br/>
 
@@ -79,15 +55,6 @@ Building scalable web apps, automation systems, and mobile tools.
 ## 🎯 Developer Rating
 
 > ⚡ Auto-updated daily with live GitHub data
-
-
-
-
-
-
-
-
-
 
 
 <!-- DEVELOPER-RATING:START -->
@@ -142,14 +109,6 @@ Building scalable web apps, automation systems, and mobile tools.
 </div>
 
 <!-- DEVELOPER-RATING:END -->
-
-
-
-
-
-
-
-
 
 
 
