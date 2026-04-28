@@ -20,14 +20,25 @@ followers = user["followers"]
 
 # -------- LANGUAGE STATS -------- #
 
+from collections import Counter
+
 languages = Counter()
 
 for repo in repos:
-    if repo["language"]:
-        languages[repo["language"]] += 1
+    # skip forks (optional but recommended)
+    if repo.get("fork"):
+        continue
 
-top_languages = [lang for lang, _ in languages.most_common(4)]
-top_languages_str = ", ".join(top_languages) if top_languages else "N/A"
+    lang = repo.get("language")
+    if lang:
+        languages[lang] += 1
+
+# fallback if GitHub returns no primary languages
+if not languages:
+    top_languages_str = "Not enough data"
+else:
+    top_languages = [lang for lang, _ in languages.most_common(4)]
+    top_languages_str = ", ".join(top_languages)
 
 # fallback values (GitHub API limitations unless extended)
 prs_merged = 58
